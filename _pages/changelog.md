@@ -5,16 +5,16 @@ include_in_header: false
 ---
 
 # Changelog
-ChatDog 版本发布历史
+艺术二维码 版本发布历史
 
 <br>
 
 ### `Latest`
 # **Version 1.0**
-ChatDog 第一个正式版本
+艺术二维码 第一个正式版本
 
 #### What's New
-- 提供各种有用的prompt和直接和 ChatGPT 沟通的能力
+- 提供各种好看的二维码艺术模板
 
 #### Bug Fixes
 - 暂无

@@ -35,20 +35,20 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 问即有答
-    description                           : 一问一答尽显效率
+  - title                                 : 好看的模板
+    description                           : 让您的二维码好看又有品味
     fontawesome_icon_name                 : magic
     
-  - title                                 : 辅助写作
-    description                           : 文字工作我最擅长
+  - title                                 : 使用场景
+    description                           : 诸多使用场景，将彻底颠覆二维码体验
     fontawesome_icon_name                 : mobile
 
-  - title                                 : 不会聊天？
-    description                           : 智能键盘帮你随时随地优化润色
+  - title                                 : 使用简单
+    description                           : 无需学习，上手即可使用
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Siri & 快捷方式
-    description                           : 一键呼叫 ChatDog
+  - title                                 : 持续更新
+    description                           : 美轮美奂的模板应有尽有
     fontawesome_icon_name                 : sync
 
 
